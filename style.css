@@ -1,0 +1,60 @@
+body {
+    background-color: hsl(25, 69%, 69%);
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    border: 4mm ridge hsl(261, 80%, 50%);
+    background-color: rgb(171, 224, 164);
+    text-align: center;
+}
+
+.listCenter {
+    padding-top: 50px;
+    padding-right: 40px;
+}
+
+.boxes {
+    background-color: #566e9b;
+    width: 65%;
+}
+
+.sub-heading {
+    font-size: 30px;
+    font-weight: 600;
+    color: hsl(170, 100%, 16%);
+}
+
+button {
+    font-size: large;
+    background-color: aquamarine;
+}
+
+#home-list {
+    color: black;
+    background-color: #000;
+    border: 5px solid white;
+    border-radius: 12px;
+    width: 200px;
+    height: 150px;
+}
+h4 {
+    border: 2px dashed red;
+    padding-right: 75%;
+}
+
+.center-img {
+    text-align: center;
+    border: 2px solid black;
+    background-color: rgb(220, 255, 124);
+}
+
+ul, ol {
+    color: blue;
+    font-size: large;
+}
+
+.but-center {
+    text-align: center;
+}
